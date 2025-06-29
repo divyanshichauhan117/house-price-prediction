@@ -1,5 +1,6 @@
 # HOUSE PRICE PREDICTION
-#  About Section Features:
+# 📋 About Section Features:
+
 Key Information:
 
 Purpose: Explains it's an AI-powered real estate valuation tool
